@@ -17,6 +17,15 @@ como trabalhar em conjunto?
 - Adicionando colaboraçao
     Github > perfil > + organization > free
 
+GITHUB > pull > PROJECT > add > COMMIT > push > GITHUB
+
+branches > megazorde ou como se fosse o multiverso marvel 
+tem uma linha do tempo original, consigo abrir uma nova pra testar e depois junto na original 
+
+a ideia nos grupos seria mexer nas branches
+so o final alterar na master 
+
+
 ---- comandos ---- 
 
 cd.. >  voltar pasta 
@@ -39,6 +48,12 @@ git push > "empurrar" para o github as alteraçoes
 
 git pull > comando para atualizar repositorio local
 
+git fetch > leva as informaçeos do antigo repositorio para conseguir fazer uma comparacao por ex.
 
+git branch (nome da branch) > criar uma branch (como se fosse a linha do tempo )
 
-Teste do git pull
+git checkout > trocar o nome da branch 
+
+git checkout master > git merge (nome da branch q foram feitas as alterações no codigo)
+
+git branch > lista as branches
