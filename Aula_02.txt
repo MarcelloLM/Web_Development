@@ -1,0 +1,25 @@
+git software de controle de versao 
+
+sistema de versionamente distribuido , possuindo um repositorio local 
+
+git, clone, push 
+
+Maneiras de criar repositorios 
+- source control 
+- linha de comando 
+- github 
+
+readme > arquivo com extensao .md, arquvio markdown - marcação utlizada para converter texto em um html válido
+
+
+---- comandos ---- 
+
+cd.. >  voltar pasta 
+
+cd (nome da pasta) > acessar pasta 
+
+cls - Crtl + L > limpar terminal
+
+git init > iniciar repositorio git
+
+git add (comando para adicionar os arquivos)> 
