@@ -27,3 +27,10 @@ git add (comando para adicionar os arquivos)
 git status > ver o status do repositorio
 
 git commit -m "Mensagem que deseja colocar" > commitar 
+
+git log > registro dos logs 
+
+git push > "empurrar" para o github as alteraçoes 
+
+
+
