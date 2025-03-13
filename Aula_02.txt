@@ -33,4 +33,4 @@ git log > registro dos logs
 git push > "empurrar" para o github as alteraçoes 
 
 
-
+Teste do git pull
