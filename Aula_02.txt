@@ -11,6 +11,11 @@ Maneiras de criar repositorios
 
 readme > arquivo com extensao .md, arquvio markdown - marcação utlizada para converter texto em um html válido
 
+como trabalhar em conjunto?
+- Adicionando colaborador
+    Github > repositorio desejado > config > collabs
+- Adicionando colaboraçao
+    Github > perfil > + organization > free
 
 ---- comandos ---- 
 
@@ -31,6 +36,9 @@ git commit -m "Mensagem que deseja colocar" > commitar
 git log > registro dos logs 
 
 git push > "empurrar" para o github as alteraçoes 
+
+git pull > comando para atualizar repositorio local
+
 
 
 
