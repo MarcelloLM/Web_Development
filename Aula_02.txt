@@ -22,4 +22,8 @@ cls - Crtl + L > limpar terminal
 
 git init > iniciar repositorio git
 
-git add (comando para adicionar os arquivos)> 
+git add (comando para adicionar os arquivos)
+
+git status > ver o status do repositorio
+
+git commit -m "Mensagem que deseja colocar" > commitar 
